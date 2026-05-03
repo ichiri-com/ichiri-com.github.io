@@ -3,8 +3,7 @@ layout: page
 title: プライバシーポリシー
 permalink: /fuvura/privacy
 ---
-
-本プライバシーポリシー(以下「本ポリシー」といいます)は、ichiri.com(以下「事業者」といいます)が提供する資産形成シミュレーション用モバイルアプリケーション「Fuvura」(以下「本アプリ」といいます)における、利用者の情報の取扱いについて定めるものです。
+本プライバシーポリシー(以下「本ポリシー」といいます)は、ichiri.com(以下「事業者」といいます)が提供する資産形成シミュレーション用アプリケーション「Fuvura」(以下「本アプリ」といいます)における、利用者の情報の取扱いについて定めるものです。
 
 本アプリは日本国内の利用者を対象として配信しています。本アプリを利用される前に、本ポリシーをよくお読みください。本アプリを利用された場合、利用者は本ポリシーに同意したものとみなされます。
 
@@ -16,7 +15,7 @@ permalink: /fuvura/privacy
 | :--- | :--- |
 | 事業者名 | ichiri.com |
 | お問い合わせ | [お問い合わせフォーム](https://forms.gle/KjNVDe5jQs1gMjJY9) |
-| 個人情報保護管理者 | ichiri.com |
+| 代表者兼個人情報保護管理者 | 加納 浩行（ichiri.com） |
 
 書面による開示等のご請求を希望される場合は、上記お問い合わせフォームよりご連絡ください。郵送先住所をご案内します。
 
@@ -102,9 +101,9 @@ permalink: /fuvura/privacy
 
 - **米国の制度**: 米国は、個人情報保護に関する包括的な連邦法を有しておらず、分野別の連邦法および各州法により規律されています。日本の個人情報保護法と同等の保護水準が連邦レベルでは確保されているとはいえない場合があります。
 - **講じている保護措置**: 各事業者は、それぞれのプライバシーポリシーおよび契約条項に基づき、個人情報の適切な取扱いを実施しています。詳細は以下のリンクをご参照ください。
-  - Google(Firebase): [https://firebase.google.com/support/privacy](https://firebase.google.com/support/privacy)
-  - Google プライバシーポリシー: [https://policies.google.com/privacy?hl=ja](https://policies.google.com/privacy?hl=ja)
-  - Apple(App Store): [https://www.apple.com/jp/legal/privacy/](https://www.apple.com/jp/legal/privacy/)
+  - Google(Firebase): https://firebase.google.com/support/privacy
+  - Google プライバシーポリシー: https://policies.google.com/privacy?hl=ja
+  - Apple(App Store): https://www.apple.com/jp/legal/privacy/
 
 ---
 
@@ -119,6 +118,8 @@ permalink: /fuvura/privacy
 - 第三者への提供の停止
 
 ご請求は、第1項記載のお問い合わせフォームよりお願いします。事業者は、合理的な期間内にご対応します。なお、シミュレーション入力情報は事業者が保有していないため、これらの請求の対象とはなりません(端末上で利用者ご自身により削除可能です)。
+
+開示等のご請求に際しては、本人確認のためお問い合わせフォームにてご本人様情報をお知らせいただく場合があります。手数料は無料です。開示等の請求に関するご不満は、同フォームよりご連絡ください。
 
 ---
 
@@ -159,6 +160,7 @@ permalink: /fuvura/privacy
 
 - 本アプリをアンインストールする(端末内のシミュレーション入力情報も同時に削除されます)
 - iOSの「設定 > プライバシーとセキュリティ > 解析と改善」から、iOSの解析データの共有を無効化する
+- Mac（Designed for iPad）でご利用の場合は、本アプリをアンインストールすることで情報の収集を停止できます。
 
 ※ iOSのバージョンによって表示が異なる場合があります。
 
@@ -187,5 +189,5 @@ permalink: /fuvura/privacy
 
 ---
 
-**制定日**: 2026年5月2日  
-**最終更新日**: 2026年5月2日
+**制定日**: 2026年5月2日
+**最終更新日**: 2026年5月3日
