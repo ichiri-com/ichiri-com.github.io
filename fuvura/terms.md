@@ -143,7 +143,7 @@ permalink: /fuvura/terms
 
 - 屋号：ichiri.com
 - 代表者：加納 浩行
-- お問い合わせ：【お問い合わせフォームURLを記入】
+- お問い合わせ：[お問い合わせフォーム](https://forms.gle/KjNVDe5jQs1gMjJY9)
 
 ---
 
