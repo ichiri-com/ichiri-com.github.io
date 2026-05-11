@@ -31,7 +31,7 @@ permalink: /fuvura/
 
 Fuvura は App Store にて公開中です。下のバッジをタップ、または QR コードをスキャンしてダウンロードページへお進みください。
 
-<div style="display: flex; flex-wrap: wrap; align-items: center; gap: 24px; margin: 16px 0;">
+<div style="display: flex; flex-direction: column; align-items: flex-start; gap: 16px; margin: 16px 0;">
   <a href="https://apps.apple.com/jp/app/fuvura-100%E6%AD%B3%E3%81%BE%E3%81%A7%E3%81%AE%E3%81%A4%E3%81%BF%E3%81%9F%E3%81%A6%E6%8A%95%E8%B3%87%E3%81%A8%E8%B3%87%E7%94%A3%E8%A8%AD%E8%A8%88/id6766804781">
     <img src="assets/app-store-badge.svg" alt="App Store からダウンロード" style="height: 56px; width: auto;" />
   </a>
